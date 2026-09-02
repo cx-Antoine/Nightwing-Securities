@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/31741172/README.2.md)
 # Nightwing Securities
 
 > A late-night emergency response platform that connects people who need urgent assistance with verified nearby responders.
